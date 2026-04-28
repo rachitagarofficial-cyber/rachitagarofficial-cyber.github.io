@@ -1,7 +1,7 @@
 ---
 title: Welcome to Reform India
 date: 2026-04-28 09:48:12 +0530
-categories: [Welcome, Introfuction]
+categories: [Welcome, Introduction]
 tags: [introduction,hello,welcome,start]     # TAG names should always be lowercase
 ---
 

@@ -12,7 +12,7 @@ order: 4
 ---
 
 ### This is a blog I'd like to maintain in the future
-This personal blog is dedicated to exploring, asking, and answering questions pertaining to economic and social reforms in India.
+This personal blog is dedicated to exploring, asking, and answering questions pertaining to social, political and economic reforms in India.\
 I will start writing in this blog whenever I get enough time to start writing and then be consistant with at least one blog every 2-3 weeks.
 
 ---
